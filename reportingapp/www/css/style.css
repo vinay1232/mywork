@@ -1,0 +1,32 @@
+/* Empty. Add your own CSS if you like */
+.padding-lr-20{padding-left: 20px;padding-right: 20px;}
+.margin-lr-10{margin-left: 10px;margin-right: 10px;}
+.text-center{text-align: center !important;}
+.margin-tb-40{margin-top: 40px; margin-bottom: 40px;}
+.ak-img-res{height: auto;
+max-width: 100%; width: 100%;}
+
+.padding-tb-40{padding-top: 40px; padding-bottom: 40px;}
+.btnborder1{border:1px solid #75ba67; color:#75ba67 !important; }
+.btnborder2{border:1px solid #d88e5d;  color:#d88e5d !important; }
+
+.bar.bar-positive {
+    border-color: #1a4977;
+    background-color: #1a4977;
+    background-image: linear-gradient(0deg, #1a4977, #1a4977 50%, transparent 50%);
+    color: #fff;
+}
+
+.col000{color: #000 !important;}
+
+.padding-tb-60{padding-top: 60px; padding-bottom: 60px;}
+.nomargin{margin: 0px !important;}
+.nopadding{padding: 0px !important;}
+.top0{top: 0px !important;}
+.height30{height: 30px !important;}
+.clrzero{background-color: transparent !important;}
+.bordernone{border:none !important;}
+.colfff{color: #fff !important;}
+
+select {
+ border: 0px solid #000 !important; color: #000 !important;}
