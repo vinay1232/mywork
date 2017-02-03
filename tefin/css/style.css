@@ -1,0 +1,105 @@
+
+.bgimg
+{
+	background: #2c2b29;
+}
+.textcol
+{
+	color: #afafaf;
+}
+.textcolleft
+{
+	color: #afafaf;
+	right: 0px;
+	position: absolute;
+
+
+}
+.odernow{
+	margin-top: 3%;
+}
+./*bgnave
+{
+	background: #b7b7b7;
+	height: 15px;
+	border-radius: none;
+}
+*/
+.setrow
+{
+	margin-top: 3%;
+}
+.banner
+{
+
+}
+.testtest
+{
+	color: #ffd823;
+	font-size: 45px;
+}
+.forboder img
+{
+	border: 8px solid #fff;
+}
+.banner-mobile{
+	background:url(../image/MobileBackground.png);
+	height:300px;
+	background-size:100% 100%; 
+	margin-top: 10px;
+}
+
+.setright img
+{
+	margin-left: 40%;
+	width: 40%;
+}
+.teffinap
+{
+	color: #d63233;
+	font-size: 96px;
+    font-family: fantasy;
+}
+.bodersetfoodimg img
+{
+	border: 6px solid #fff;
+
+}
+.btnimg
+{
+	width: 24%;
+    margin-left: 10%;
+    margin-top: 6%;
+}
+.smtext
+{
+	color: #b7b7b7;
+	font-family: initial;
+}
+.fortopboder
+{
+	border-top: 2px solid #fff;
+}
+.setoderpayimg
+{
+
+}
+.forhedingcolor
+{
+	color: #d63231;
+	text-align: center;
+}
+/*.odernow .thumbnail{
+	margin-bottom: 26px;
+
+}*/
+.abslSteeOrdernow{
+	position:absolute;
+	text-align: center;
+	bottom:0px;
+	width: 100%;
+}
+.odernow .thumbnail {
+    margin-bottom: 38px;
+
+}
